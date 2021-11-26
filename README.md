@@ -1,1 +1,1 @@
-Here I built a rotating square object using HTML and CSS.
+Here I built a rotating square object using HTML and CSS.The idea was to build an object which never stops rotating.
